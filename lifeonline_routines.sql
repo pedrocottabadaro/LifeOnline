@@ -15,14 +15,8 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Dumping data for table `carros`
+-- Dumping events for database 'lifeonline'
 --
-
-LOCK TABLES `carros` WRITE;
-/*!40000 ALTER TABLE `carros` DISABLE KEYS */;
-INSERT INTO `carros` VALUES (26,'Saveiro','HTFI743','Volkswagen','2020-08-18'),(27,'Fox','PZY4537','Volkswagen','2020-08-18'),(28,'Strada','YTZ4444','FIAT','2020-08-18');
-/*!40000 ALTER TABLE `carros` ENABLE KEYS */;
-UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
@@ -32,4 +26,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-08-18 21:15:58
+-- Dump completed on 2020-08-18 21:40:56
